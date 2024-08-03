@@ -1,2 +1,3 @@
-# Java-Project
-Uploading my project to GitHub
+# About this Java Project
+
+Car Service Application in Java 
