@@ -1,3 +1,3 @@
-# About this Java Project
+# About this C# Project
 
-Car Service Application in Java 
+Car Service Application in C# 
