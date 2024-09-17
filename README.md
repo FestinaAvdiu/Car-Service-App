@@ -1,5 +1,7 @@
-# About this Project
+# Car Service App
 
-- Developing a platform for youth in Kosovo to discover volunteer opportunities, events, trainings, and professional development activities. 
-- The platform aggregates opportunities from NGOs and other organizations through web scraping, providing a centralized, regularly updated database.
-- Users can easily browse and apply based on their interests, while the automated scraping process ensures up-to-date listings from various sources.
+- A C# Windows Forms application for managing car service worksheets using object-oriented programming principles.
+- The app allows users to load services from a file, register and order works, and calculate service fees and material costs.
+- It includes dynamic worksheet registration, payment processing, and detailed cost summaries.
+- Key features include service time tracking, invoice generation, and a confirmation dialog before exiting the program.
+- The interface is user-friendly with menu options that enable or disable based on function availability.
